@@ -1,0 +1,207 @@
+body{
+    background-color:  #181D31;
+}
+
+a
+{
+    color: white;
+    text-decoration: none;
+}
+
+
+h1{
+    color: #ffffff;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    background-color: #595e93;
+}
+.container-fluid{
+    height: auto;
+
+
+}
+
+.header{
+margin-top: 50rem;
+background-color: #181D31;
+height: 30%;
+font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+.topper{
+    margin-top: 50rem;
+    height: 20%;
+    background-color: aliceblue;
+    color: black;
+}
+
+.logo{
+    padding: auto;
+background-color: #16103e;
+height: 5vw;
+width: 10vw;
+}
+
+.tab{
+color: white;
+background-color:#595e93;
+padding-top: 2%;
+padding-bottom: 1%;
+font-size: 1.1vw;
+}
+
+.main{
+position: relative;
+margin-top: 50rem;
+background-color: #16103e;
+height: 40%;
+padding-left: 0px;
+padding-right: 0px;
+}
+
+.maintext{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color:white;
+  text-align: center;
+  height: auto;
+
+}
+
+
+
+.foot{
+text-align: center;
+background-color: aliceblue;
+height: auto;
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 1.1vw;
+color:#16103e;
+font-weight: bold;
+}
+
+.param{
+    margin-top: 3rem;
+}
+
+.main{
+    height: 100%;
+    width: 100%; 
+}
+.image-container{
+   height: auto;
+   width: 100%; 
+   overflow: hidden;
+   position: relative;
+  
+}
+
+
+.image-container img{
+    height: auto;
+    width: 100%; 
+    position: relative;
+   
+}
+#aboutimg{
+    height: 30vw;
+    width: 30vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+}
+
+.tr0{
+text-align: center;
+font-family: 'Odibee Sans', cursive;
+font-size: 4vw;
+
+
+
+}
+/* .tr01{
+    text-align: center;
+    font-family: 'Odibee Sans', cursive;
+    font-size: 2vw;
+   
+    } */
+
+.tr1{
+text-align: center;
+font-family: 'Odibee Sans', cursive;
+font-size: 6vw; 
+
+
+}
+.tr2{
+    text-align: center;
+    font-family: 'Odibee Sans', cursive;
+    font-size: 4vw;
+    
+
+}
+
+.tr3{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 2.5vw;
+}
+.tr4{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.5vw;
+}
+
+.btn{
+background:    #ffffff;
+border:        1px solid #556699;
+border-radius: 11px;
+box-shadow:    0 1px #1036a9;
+padding:       20px 45px;
+color:         white;
+display:       inline-block;
+font:          'Odibee Sans', cursive;
+text-align:    center;
+}
+
+#btn{
+    font-family: 'Odibee Sans', cursive;
+    font-weight: 0; 
+    font-size: 2vw; 
+    color: #16103e; 
+    background: linear-gradient(90deg, #0066CC 0%, #16103e; 100%); 
+    padding: 10px 50px; 
+    border: none; 
+    box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px; 
+    border-radius: 50px; 
+    transition : 1000ms; 
+    transform: translateY(0); 
+    }
+    
+    #btn:hover{ 
+    transition : 1000ms; 
+    transform : translateY(-6px); 
+    background: linear-gradient(90deg, #70a4d7 0%, #b79dff 100%); 
+    color: #16103e; 
+    border: none; 
+    } 
+
+
+    p{
+  color:white;
+  text-align: justify;
+  height: auto;
+  font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.5vw;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    }
+.speaker{
+    padding-top: 3vw;
+    padding-left: 5vw;
+    padding-right: 5vw;
+
+}
